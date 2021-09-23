@@ -154,9 +154,9 @@ def check_sudoku():
                     efieldindex = efieldindex+1
     print_field(sfield)
     if check_sudoku_field():
-        messagebox.showinfo("Valid","Sudoku Regeln sind erfüllt!")
+        messagebox.showinfo("Super","Sudoku Regeln sind erfüllt!")
     else:
-        messagebox.showinfo("Unvalid","Sudoku Regeln sind nicht erfüllt!")
+        messagebox.showinfo("Hmmm","Sudoku Regeln sind nicht erfüllt!")
 
 
 button = Button(mainframe, text='check', command=check_sudoku)
