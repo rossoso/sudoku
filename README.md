@@ -1,2 +1,2 @@
 # sudoku´
-Sudokutester with casic python modules!
+sudokutester with basic python modules!
