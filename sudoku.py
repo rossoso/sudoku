@@ -1,4 +1,4 @@
-#author: rossReinoso
+#author: Daniel Rossmaier
 from tkinter import messagebox
 from tkinter import *
 
